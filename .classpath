@@ -18,6 +18,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/gojha/Documents/workspace-personal/TIJ4/lib/tools-1.7.0.51.jar"/>
+	<classpathentry kind="lib" path="lib/swt.jar"/>
+	<classpathentry kind="lib" path="lib/tools-1.7.0.51.jar"/>
+	<classpathentry kind="lib" path="lib/javaws.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
